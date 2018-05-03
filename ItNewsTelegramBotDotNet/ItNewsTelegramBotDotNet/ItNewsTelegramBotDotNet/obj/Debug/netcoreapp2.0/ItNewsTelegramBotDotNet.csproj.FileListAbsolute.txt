@@ -1,0 +1,10 @@
+/home/prostrmk/Documents/Programs/Csharp/Projects/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/bin/Debug/netcoreapp2.0/ItNewsTelegramBotDotNet.deps.json
+/home/prostrmk/Documents/Programs/Csharp/Projects/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/bin/Debug/netcoreapp2.0/ItNewsTelegramBotDotNet.runtimeconfig.json
+/home/prostrmk/Documents/Programs/Csharp/Projects/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/bin/Debug/netcoreapp2.0/ItNewsTelegramBotDotNet.runtimeconfig.dev.json
+/home/prostrmk/Documents/Programs/Csharp/Projects/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/bin/Debug/netcoreapp2.0/ItNewsTelegramBotDotNet.dll
+/home/prostrmk/Documents/Programs/Csharp/Projects/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/bin/Debug/netcoreapp2.0/ItNewsTelegramBotDotNet.pdb
+/home/prostrmk/Documents/Programs/Csharp/Projects/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/obj/Debug/netcoreapp2.0/ItNewsTelegramBotDotNet.csproj.CoreCompileInputs.cache
+/home/prostrmk/Documents/Programs/Csharp/Projects/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/obj/Debug/netcoreapp2.0/ItNewsTelegramBotDotNet.AssemblyInfoInputs.cache
+/home/prostrmk/Documents/Programs/Csharp/Projects/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/obj/Debug/netcoreapp2.0/ItNewsTelegramBotDotNet.AssemblyInfo.cs
+/home/prostrmk/Documents/Programs/Csharp/Projects/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/obj/Debug/netcoreapp2.0/ItNewsTelegramBotDotNet.dll
+/home/prostrmk/Documents/Programs/Csharp/Projects/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/ItNewsTelegramBotDotNet/obj/Debug/netcoreapp2.0/ItNewsTelegramBotDotNet.pdb

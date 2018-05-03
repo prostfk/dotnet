@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Threading.Tasks;
+using Telegram.Bot;
 
 namespace ItNewsTelegramBotDotNet
 {
@@ -6,7 +8,12 @@ namespace ItNewsTelegramBotDotNet
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Bot.TestApiAsync();
         }
+        
+        
     }
+    
+    
+    
 }

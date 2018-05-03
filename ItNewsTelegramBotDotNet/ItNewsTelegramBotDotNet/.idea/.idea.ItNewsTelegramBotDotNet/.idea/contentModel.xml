@@ -4,6 +4,7 @@
     <e p="$USER_HOME$/.Rider2018.1/system/resharper-host/local/Transient/ReSharperHost/v12/SolutionCaches/_ItNewsTelegramBotDotNet.773465568.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="ItNewsTelegramBotDotNet" t="IncludeRecursive">
+        <e p="Bot.cs" t="Include" />
         <e p="ItNewsTelegramBotDotNet.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
