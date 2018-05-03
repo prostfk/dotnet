@@ -1,9 +1,11 @@
 ﻿using System;
+using System.IO;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using Telegram.Bot;
 using Telegram.Bot.Args;
 using Telegram.Bot.Types;
+using Telegram.Bot.Types.InputFiles;
 
 namespace ItNewsTelegramBotDotNet
 {
@@ -32,6 +34,11 @@ namespace ItNewsTelegramBotDotNet
                 {
                     case "/news":
                         SendMessage(msg, Db("SELECT content FROM Articles WHERE id=(SELECT MAX(id) FROM Articles)"));
+                        break;
+                    case "/pic":
+                        string filename = Db("SELECT pathToFile FROM Articles ORDER BY RAND() LIMIT 1;");
+                        await bot.SendPhotoAsync(msg.Chat.Id,
+                            new InputOnlineFile(new FileStream(filename,FileMode.Open),filename));
                         break;
                     default:
                         SendMessage(msg, "No command");
