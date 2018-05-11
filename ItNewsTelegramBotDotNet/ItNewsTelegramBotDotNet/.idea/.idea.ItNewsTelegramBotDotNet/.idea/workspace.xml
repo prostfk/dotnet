@@ -2,135 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05149682-b160-4a32-b583-d1ee29906b44" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Controllers/HomeController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/KSISCursach.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Models/ErrorViewModel.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Startup.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Views/Home/About.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Views/Home/Contact.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Views/Home/Index.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Views/Shared/Error.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Views/Shared/_Layout.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Views/Shared/_ValidationScriptsPartial.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Views/_ViewImports.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/Views/_ViewStart.cshtml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/appsettings.Development.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/appsettings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/bin/Debug/netcoreapp2.0/KSISCursach.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/bin/Debug/netcoreapp2.0/KSISCursach.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/bin/Debug/netcoreapp2.0/KSISCursach.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/bin/Debug/netcoreapp2.0/KSISCursach.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/bin/Debug/netcoreapp2.0/KSISCursach.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/bundleconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/Debug/netcoreapp2.0/KSISCursach.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/Debug/netcoreapp2.0/KSISCursach.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/Debug/netcoreapp2.0/KSISCursach.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/Debug/netcoreapp2.0/KSISCursach.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/Debug/netcoreapp2.0/KSISCursach.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/Debug/netcoreapp2.0/KSISCursach.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/KSISCursach.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/KSISCursach.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/KSISCursach.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/css/site.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/css/site.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/images/banner1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/images/banner2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/images/banner3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/images/banner4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/js/site.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/js/site.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/lib/bootstrap/.bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/lib/bootstrap/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/lib/jquery-validation-unobtrusive/.bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/lib/jquery-validation/.bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/lib/jquery-validation/LICENSE.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/lib/jquery/.bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/KSISCursach/KSISCursach/wwwroot/lib/jquery/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/.vs/minipaint/v15/.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/.vs/minipaint/v15/server/sqlite3/storage.ide" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/.vs/minipaint/v15/server/sqlite3/storage.ide-shm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/.vs/minipaint/v15/server/sqlite3/storage.ide-wal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint.v11.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint/About.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint/About.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint/About.resx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint/Form1.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint/Form1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint/Form1.resx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint/MiniPaint.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/MiniPaint/app.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/Properties/Resources.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/Properties/Resources.resx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/Properties/Settings.Designer.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/Properties/Settings.settings" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/Resources/pencil.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/bin/Debug/MiniPaint.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/bin/Debug/MiniPaint.exe.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/bin/Debug/MiniPaint.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/MiniPaint.About.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/MiniPaint.Form1.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/MiniPaint.Properties.Resources.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/MiniPaint.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/MiniPaint.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/MiniPaint.csproj.GenerateResource.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/MiniPaint.csprojResolveAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/MiniPaint.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/MiniPaint.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KSISCursach/Paint/minipaint/obj/debug/TempPE/Properties.Resources.Designer.cs.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/Config.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/KsisLab3.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/bin/Debug/netcoreapp2.0/KsisLab3.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/bin/Debug/netcoreapp2.0/KsisLab3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/bin/Debug/netcoreapp2.0/KsisLab3.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/bin/Debug/netcoreapp2.0/KsisLab3.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/bin/Debug/netcoreapp2.0/KsisLab3.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/Debug/netcoreapp2.0/KsisLab3.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/Debug/netcoreapp2.0/KsisLab3.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/Debug/netcoreapp2.0/KsisLab3.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/Debug/netcoreapp2.0/KsisLab3.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/Debug/netcoreapp2.0/KsisLab3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/Debug/netcoreapp2.0/KsisLab3.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/KsisLab3.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/KsisLab3.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/KsisLab3.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../KsisLab3/KsisLab3/KsisLab3/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/Lab4Ksis.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/bin/Debug/netcoreapp2.0/Lab4Ksis.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/bin/Debug/netcoreapp2.0/Lab4Ksis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/bin/Debug/netcoreapp2.0/Lab4Ksis.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/bin/Debug/netcoreapp2.0/Lab4Ksis.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/bin/Debug/netcoreapp2.0/Lab4Ksis.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/Debug/netcoreapp2.0/Lab4Ksis.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/Debug/netcoreapp2.0/Lab4Ksis.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/Debug/netcoreapp2.0/Lab4Ksis.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/Debug/netcoreapp2.0/Lab4Ksis.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/Debug/netcoreapp2.0/Lab4Ksis.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/Debug/netcoreapp2.0/Lab4Ksis.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/Lab4Ksis.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/Lab4Ksis.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/Lab4Ksis.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Lab4Ksis/Lab4Ksis/Lab4Ksis/obj/project.packagespec.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../Java/Desktop/Dolphin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Desktop/Dolphin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/logging/logFile.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/logging/logFile.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/config/ItNewsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/config/ItNewsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/config/WebMvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/config/WebMvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/controller/DataController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/controller/DataController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/controller/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/controller/MainController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/controller/TypeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/controller/TypeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/model/util/ArticleProcess.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/java/by/bntu/fitr/povt/prostrmk/ItNews/model/util/ArticleProcess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/security-config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/security-config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/spring.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/spring.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/templates/ViewTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/templates/ViewTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/templates/auth.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/templates/auth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/templates/createArticle.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/templates/createArticle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/templates/singleNews.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Java/Java EE/Spring/SpringTutorials/ItNews/src/main/resources/templates/singleNews.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -170,14 +58,14 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ItNewsTelegramBotDotNet/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
+            <state relative-caret-position="171">
               <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
               <folding>
-                <marker date="1525354453639" expanded="true" signature="6:63" ph="..." />
+                <marker date="1525354453639" expanded="false" signature="6:63" ph="..." />
                 <marker date="1525354453639" expanded="true" signature="98:257" ph="{...}" />
                 <marker date="1525354453639" expanded="true" signature="118:240" ph="{...}" />
                 <marker date="1525354453639" expanded="true" signature="164:216" ph="{...}" />
@@ -189,18 +77,19 @@
       <file leaf-file-name="Bot.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ItNewsTelegramBotDotNet/Bot.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="311">
-              <caret line="38" column="102" selection-start-line="38" selection-start-column="102" selection-end-line="38" selection-end-column="102" />
+            <state relative-caret-position="289">
+              <caret line="72" column="65" selection-start-line="72" selection-start-column="65" selection-end-line="72" selection-end-column="65" />
               <folding>
-                <marker date="1525363306535" expanded="true" signature="6:198" ph="..." />
-                <marker date="1525363306535" expanded="true" signature="233:2350" ph="{...}" />
-                <marker date="1525363306535" expanded="true" signature="256:2348" ph="{...}" />
-                <marker date="1525363306535" expanded="true" signature="422:709" ph="{...}" />
-                <marker date="1525363306535" expanded="true" signature="793:1758" ph="{...}" />
-                <marker date="1525363306535" expanded="true" signature="911:1748" ph="{...}" />
-                <marker date="1525363306535" expanded="true" signature="1068:1734" ph="{...}" />
-                <marker date="1525363306535" expanded="true" signature="1808:2186" ph="{...}" />
-                <marker date="1525363306535" expanded="true" signature="2259:2342" ph="{...}" />
+                <marker date="1526069044029" expanded="false" signature="6:198" ph="..." />
+                <marker date="1526069044029" expanded="true" signature="233:3452" ph="{...}" />
+                <marker date="1526069044029" expanded="true" signature="256:3450" ph="{...}" />
+                <marker date="1526069044029" expanded="true" signature="422:709" ph="{...}" />
+                <marker date="1526069044029" expanded="true" signature="793:2496" ph="{...}" />
+                <marker date="1526069044029" expanded="true" signature="911:2486" ph="{...}" />
+                <marker date="1526069044029" expanded="true" signature="1068:2472" ph="{...}" />
+                <marker date="1526069044029" expanded="true" signature="2546:2924" ph="{...}" />
+                <marker date="1526069044029" expanded="true" signature="2997:3288" ph="{...}" />
+                <marker date="1526069044029" expanded="true" signature="3361:3444" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -252,7 +141,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -271,6 +159,7 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -322,11 +211,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525352972346</updated>
       <workItem from="1525352973507" duration="6416000" />
+      <workItem from="1526068172870" duration="904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6416000" />
+    <option name="totallyTimeSpent" value="7320000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,29 +231,29 @@
     <frame x="0" y="27" width="1920" height="1016" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.3295838" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3295838" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="NuGet" weight="0.3295838" />
-      <window_info anchor="bottom" id="Database Console" weight="0.3295838" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.18036287" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" weight="0.3295838" />
-      <window_info anchor="right" id="Database" visible="true" weight="0.15901814" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3295838" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.3295838" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18036287" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3295838" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.15901814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -374,33 +264,16 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8648E92-D728-403A-BC85-F47F1841D848/6e/b114fe98/TelegramBotClient.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="371" column="16" selection-start-line="371" selection-start-column="16" selection-end-line="371" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ItNewsTelegramBotDotNet/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
           <folding>
-            <marker date="1525354453639" expanded="true" signature="6:63" ph="..." />
+            <marker date="1525354453639" expanded="false" signature="6:63" ph="..." />
             <marker date="1525354453639" expanded="true" signature="98:257" ph="{...}" />
             <marker date="1525354453639" expanded="true" signature="118:240" ph="{...}" />
             <marker date="1525354453639" expanded="true" signature="164:216" ph="{...}" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f487797d-a030-4189-a373-d8d735fabafe/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/490CA514-566E-4368-9FA7-FB758FA48F6E/8b/88370466/MySqlCommand.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="1258" column="27" selection-start-line="1258" selection-start-column="27" selection-end-line="1258" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -413,18 +286,72 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ItNewsTelegramBotDotNet/Bot.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="311">
+        <state relative-caret-position="722">
           <caret line="38" column="102" selection-start-line="38" selection-start-column="102" selection-end-line="38" selection-end-column="102" />
           <folding>
-            <marker date="1525363306535" expanded="true" signature="6:198" ph="..." />
-            <marker date="1525363306535" expanded="true" signature="233:2350" ph="{...}" />
-            <marker date="1525363306535" expanded="true" signature="256:2348" ph="{...}" />
-            <marker date="1525363306535" expanded="true" signature="422:709" ph="{...}" />
-            <marker date="1525363306535" expanded="true" signature="793:1758" ph="{...}" />
-            <marker date="1525363306535" expanded="true" signature="911:1748" ph="{...}" />
-            <marker date="1525363306535" expanded="true" signature="1068:1734" ph="{...}" />
-            <marker date="1525363306535" expanded="true" signature="1808:2186" ph="{...}" />
-            <marker date="1525363306535" expanded="true" signature="2259:2342" ph="{...}" />
+            <marker date="1526069044029" expanded="false" signature="6:198" ph="..." />
+            <marker date="1526069044029" expanded="true" signature="233:3452" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="256:3450" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="422:709" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="793:2496" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="911:2486" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="1068:2472" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="2546:2924" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="2997:3288" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="3361:3444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B8648E92-D728-403A-BC85-F47F1841D848/6e/b114fe98/TelegramBotClient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="371" column="16" selection-start-line="371" selection-start-column="16" selection-end-line="371" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/490CA514-566E-4368-9FA7-FB758FA48F6E/8b/88370466/MySqlCommand.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="1258" column="27" selection-start-line="1258" selection-start-column="27" selection-end-line="1258" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ItNewsTelegramBotDotNet/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <marker date="1525354453639" expanded="false" signature="6:63" ph="..." />
+            <marker date="1525354453639" expanded="true" signature="98:257" ph="{...}" />
+            <marker date="1525354453639" expanded="true" signature="118:240" ph="{...}" />
+            <marker date="1525354453639" expanded="true" signature="164:216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://f487797d-a030-4189-a373-d8d735fabafe/schema/ItNews/table/Articles">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ItNewsTelegramBotDotNet/Bot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="72" column="65" selection-start-line="72" selection-start-column="65" selection-end-line="72" selection-end-column="65" />
+          <folding>
+            <marker date="1526069044029" expanded="false" signature="6:198" ph="..." />
+            <marker date="1526069044029" expanded="true" signature="233:3452" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="256:3450" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="422:709" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="793:2496" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="911:2486" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="1068:2472" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="2546:2924" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="2997:3288" ph="{...}" />
+            <marker date="1526069044029" expanded="true" signature="3361:3444" ph="{...}" />
           </folding>
         </state>
       </provider>

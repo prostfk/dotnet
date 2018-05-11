@@ -32,13 +32,22 @@ namespace ItNewsTelegramBotDotNet
 //                await bot.SendTextMessageAsync(msg.Chat.Id, "checking dotnet bot, " + msg.From.FirstName);
                 switch (msg.Text)
                 {
+                    
+                    case "/randomNews":
+                        int max = Int32.Parse(Db("SELECT id FROM Articles WHERE id=(SELECT MAX(id) FROM Articles)"));
+                        int id = new Random().Next(1, max + 1);
+                        SendMessage(msg, Db("SELECT title FROM Articles WHERE id=" + id + " FROM Articles"));
+                        SendMessage(msg, Db("SELECT content FROM Articles WHERE id=" + id + " FROM Articles"));
+                        SendPicture(msg,Db("SELECT pathToFile FROM Articles WHERE id=" + id + " FROM Articles"));
+                        break;
                     case "/news":
+                        SendMessage(msg, Db("SELECT title FROM Articles WHERE id=(SELECT MAX(id) FROM Articles)"));
                         SendMessage(msg, Db("SELECT content FROM Articles WHERE id=(SELECT MAX(id) FROM Articles)"));
+                        SendPicture(msg, Db("SELECT pathToFile FROM Articles WHERE id=(SELECT MAX(id) FROM Articles)"));
                         break;
                     case "/pic":
                         string filename = Db("SELECT pathToFile FROM Articles ORDER BY RAND() LIMIT 1;");
-                        await bot.SendPhotoAsync(msg.Chat.Id,
-                            new InputOnlineFile(new FileStream(filename,FileMode.Open),filename));
+                        SendPicture(msg, filename);
                         break;
                     default:
                         SendMessage(msg, "No command");
@@ -55,6 +64,13 @@ namespace ItNewsTelegramBotDotNet
             var result = command.ExecuteScalar().ToString();
             connection.Close();
             return result;
+        }
+
+        private static async void SendPicture(Message msg, string path)
+        {
+            string systemPath = "/home/prostrmk/Documents/Programs/Java/Java EE/Spring/SpringTutorials/ItNews/src/main/webapp/";
+            await bot.SendPhotoAsync(msg.Chat.Id,
+                new InputOnlineFile(new FileStream(systemPath + path,FileMode.Open),path));
         }
 
         private static async void SendMessage(Message msg, string text)
