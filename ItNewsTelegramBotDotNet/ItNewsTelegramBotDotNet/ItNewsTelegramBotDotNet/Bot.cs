@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Text;
 using System.Threading.Tasks;
 using MySql.Data.MySqlClient;
 using Telegram.Bot;
@@ -29,16 +30,16 @@ namespace ItNewsTelegramBotDotNet
             Message msg = e.Message;
             if (msg.Type == Telegram.Bot.Types.Enums.MessageType.Text)
             {
-//                await bot.SendTextMessageAsync(msg.Chat.Id, "checking dotnet bot, " + msg.From.FirstName);
                 switch (msg.Text)
                 {
                     
+//                    case "/count"
                     case "/randomNews":
                         int max = Int32.Parse(Db("SELECT id FROM Articles WHERE id=(SELECT MAX(id) FROM Articles)"));
                         int id = new Random().Next(1, max + 1);
-                        SendMessage(msg, Db("SELECT title FROM Articles WHERE id=" + id + " FROM Articles"));
-                        SendMessage(msg, Db("SELECT content FROM Articles WHERE id=" + id + " FROM Articles"));
-                        SendPicture(msg,Db("SELECT pathToFile FROM Articles WHERE id=" + id + " FROM Articles"));
+                        SendMessage(msg, Db("SELECT title FROM Articles WHERE id=" + id));
+                        SendMessage(msg, Db("SELECT content FROM Articles WHERE id=" + id));
+                        SendPicture(msg, Db("SELECT pathToFile FROM Articles WHERE id=" + id));
                         break;
                     case "/news":
                         SendMessage(msg, Db("SELECT title FROM Articles WHERE id=(SELECT MAX(id) FROM Articles)"));
@@ -58,7 +59,8 @@ namespace ItNewsTelegramBotDotNet
 
         private static string Db(String sqlCode)
         {
-            MySqlConnection connection = new MySqlConnection("server=localhost;user=root;database=ItNews;password=0;SslMode=none;");
+            MySqlConnection connection =
+                new MySqlConnection("server=localhost;user=root;database=ItNews;password=0;SslMode=none;");
             connection.Open();
             MySqlCommand command = new MySqlCommand(sqlCode, connection);
             var result = command.ExecuteScalar().ToString();
@@ -68,14 +70,23 @@ namespace ItNewsTelegramBotDotNet
 
         private static async void SendPicture(Message msg, string path)
         {
-            string systemPath = "/home/prostrmk/Documents/Programs/Java/Java EE/Spring/SpringTutorials/ItNews/src/main/webapp/";
+            string systemPath =
+                "/home/prostrmk/Documents/Programs/Java/Java EE/Spring/SpringTutorials/ItNews/src/main/webapp/";
             await bot.SendPhotoAsync(msg.Chat.Id,
-                new InputOnlineFile(new FileStream(systemPath + path,FileMode.Open),path));
+                new InputOnlineFile(new FileStream(systemPath + path, FileMode.Open), path));
         }
 
         private static async void SendMessage(Message msg, string text)
         {
-            await bot.SendTextMessageAsync(msg.Chat.Id, text);
+            try
+            {
+                await bot.SendTextMessageAsync(msg.Chat.Id, text);
+            }
+            catch (Exception e)
+            {
+                SendMessage(msg, e.ToString());
+            }
+            
         }
     }
 }
