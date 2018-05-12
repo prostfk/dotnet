@@ -33,7 +33,11 @@ namespace ItNewsTelegramBotDotNet
                 switch (msg.Text)
                 {
                     
-//                    case "/count"
+                    case "/help":
+                        SendMessage(msg, "/randomNews - Get random news from ItNews\n" +
+                                         "/news - Get latest news from ItNews\n" +
+                                         "/pic - Get random pic\n");
+                        break;
                     case "/randomNews":
                         int max = Int32.Parse(Db("SELECT id FROM Articles WHERE id=(SELECT MAX(id) FROM Articles)"));
                         int id = new Random().Next(1, max + 1);
@@ -86,7 +90,6 @@ namespace ItNewsTelegramBotDotNet
             {
                 SendMessage(msg, e.ToString());
             }
-            
         }
     }
 }
